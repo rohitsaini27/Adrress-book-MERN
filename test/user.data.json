@@ -1,0 +1,34 @@
+{
+    
+    "registerUser":{
+        "firstName": "Priyanka",
+        "lastName":"Gangwar",
+        "address": "SPS",
+        "city": "Lucknow",
+        "state": "uttarpradesh",
+        "zip": "789456",
+        "phone": "1234567890",
+        "email": "priyankaa@gmail.com",
+        "password": "priyanka123"
+    },
+    
+    "registerUserNegative":{
+        "firstName":"Sagorika",
+        "lastName":"Dey",
+        "address":"camp",
+        "city":"tezpur",
+        "state":"assam",
+        "zip":"213546",
+        "phone":"7418529630",
+        "emailId":"sago@gmail.com",
+        "password":"sagorika123"
+    },
+    "login":{
+        "emailId":"sago@gmail.com",
+        "password":"sagorika123"
+    },
+    "loginNegative":{
+        "emailId":"sago@gmail.com",
+        "password":"sagorika123dey"
+    }
+}
